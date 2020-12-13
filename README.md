@@ -8,7 +8,7 @@ My notebook contains explanation for each of the ?? lines of input code with ?? 
 I commenced work on this assignment on 22nd November 2020 and completed work for the deadline of 21st December 2020.
 I struggled a lot to understand what was required for this project.  I decided to look at previous works on this topic to get a grip of what exactly was required.  I then decided i would keep my project basic and use the tips data set and then 
 
-See here for the Assignment Instructions 2020 (https://github.com/LauraBrogan/Programming-Project-2020/blob/main/ProgDAProject%20(2).pdf)
+See here for the Assignment Instructions 2020 https://github.com/LauraBrogan/Programming-Project-2020/blob/main/ProgDAProject%20(2).pdf
 
 ## Liabries used in this Assignment
 I impoted: Matplotlib, Seaborn
@@ -18,18 +18,21 @@ Matplolib is a Python 20 plotting library which produces publication quality fig
 Seaborn is a Python visualization library based on matplotlib. It provides a high level interface for drawing attractive statistical graphics.
 
 ## Downloading My Repositiory from git hub
-Go to Git Hub using the following link Click Here:(https://github.com/LauraBrogan/Programming-Project-2020)
+Go to Git Hub using the following link Click Here:https://github.com/LauraBrogan/Programming-Project-2020
+
 Click the download button
-Whats contained in the repository
+
 ## This repository contains the following files:
 
-- Assignment Instructions
+* ProgDAProject (2).pdf- Assignment Instructions
 
--Licence file
+* Licence file
  
-- Jupyter notebook
+* Programming Project 2020.ippynb- Jupyter notebook
 
-- README.md - This document
+* README.md - This document
+
+* tips.csv - Data set used
 
 ## Running the Jupyter Notebook 1
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows): jupyter notebook This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
