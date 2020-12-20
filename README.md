@@ -1,21 +1,29 @@
 # Project for Programming for Data Analysis 2020
 
 ## Summary of Assignment
-This repository contains my programming for data analysis project 2020. It looks at 
+This repository contains my programming for data analysis project 2020. It looks at the tips data set and then I stimulated a new data set based on the saee variables using the mean and standard deviation form the tips data set and the Numpy random function.
 
-My notebook contains explanation for each of the ?? lines of input code with ?? lines of output code.
+My notebook contains explanation for each of the lines of input and output code.
 
 I commenced work on this assignment on 22nd November 2020 and completed work for the deadline of 21st December 2020.
-I struggled a lot to understand what was required for this project.  I decided to look at previous works on this topic to get a grip of what exactly was required.  I then decided i would keep my project basic and use the tips data set and then 
+I struggled a lot to understand what was required for this project.  I emailed my class lecturer and some member of my class and decided to look at previous works on this topic to get a grip of what exactly was required.  I then decided I would keep my project basic and use the tips data set and then stimulate a random data set based on the tips data set.  I looked at other students work to try and get a hold of what this project required and have refrenced this in my notebook.
+
+After now completing this task while it is basic, I feel I would be able to use the skills learnt in a real world environment.
 
 See here for the Assignment Instructions 2020 https://github.com/LauraBrogan/Programming-Project-2020/blob/main/ProgDAProject%20(2).pdf
 
 ## Liabries used in this Assignment
-I impoted: Matplotlib, Seaborn
+I impoted: NumPy, Pandas, Matplotlib, Seaborn, Collections
 
-Matplolib is a Python 20 plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms.
+-NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
-Seaborn is a Python visualization library based on matplotlib. It provides a high level interface for drawing attractive statistical graphics.
+-Pandas is an open source, BDS-licenced libary providing high-oerfimance, easy-to-use data structures and data analysis tools.
+
+-Matplolib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms.
+
+-Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.
+
+- Collections this module implements high-performance container datatypes (beyond the built-in types list, dict and tuple) and contains many useful data structures that you can use to store information in memory.
 
 ## Downloading My Repositiory from git hub
 Go to Git Hub using the following link Click Here:https://github.com/LauraBrogan/Programming-Project-2020
@@ -23,6 +31,8 @@ Go to Git Hub using the following link Click Here:https://github.com/LauraBrogan
 Click the download button
 
 ## This repository contains the following files:
+
+* .gitignore file
 
 * ProgDAProject (2).pdf- Assignment Instructions
 
@@ -48,4 +58,4 @@ Readme References:
 
 1.Running the Jupyter Notebook - https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 
-***Laura Brogan 12/12/2020
+Laura Brogan 20/12/2020
