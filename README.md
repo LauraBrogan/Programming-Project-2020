@@ -1,16 +1,16 @@
 # Project for Programming for Data Analysis 2020
 
 ## Summary of Assignment
-This repository contains my programming for data analysis project 2020. It looks at the tips data set and then I stimulated a new data set based on the saee variables using the mean and standard deviation form the tips data set and the Numpy random function.
+This repository contains my programming for data analysis project 2020. It looks at the tips data set and then I stimulated a new data set based on the same variables using the mean and standard deviation form the tips data set and the Numpy random function.
 
 My notebook contains explanation for each of the lines of input and output code.
 
 I commenced work on this assignment on 22nd November 2020 and completed work for the deadline of 21st December 2020.
-I struggled a lot to understand what was required for this project.  I emailed my class lecturer and some member of my class and decided to look at previous works on this topic to get a grip of what exactly was required.  I then decided I would keep my project basic and use the tips data set and then stimulate a random data set based on the tips data set.  I looked at other students work to try and get a hold of what this project required and have refrenced this in my notebook.
+I struggled a lot to understand what was required for this project.  I emailed my class lecturer and some members of my class and decided to look at previous works on this topic to get a grip of what exactly was required.  I then decided I would keep my project basic and use the tips data set and then stimulate a random data set based on the tips data set.  I looked at other students work to try and get a hold of what this project required and have refrenced this in my notebook.
 
 After now completing this task while it is basic, I feel I would be able to use the skills learnt in a real world environment.
 
-See here for the Assignment Instructions 2020 https://github.com/LauraBrogan/Programming-Project-2020/blob/main/ProgDAProject%20(2).pdf
+[See here for the Assignment Instructions 2020](https://github.com/LauraBrogan/Programming-Project-2020/blob/main/ProgDAProject%20(2).pdf)
 
 ## Liabries used in this Assignment
 I impoted: NumPy, Pandas, Matplotlib, Seaborn, Collections
@@ -26,7 +26,7 @@ I impoted: NumPy, Pandas, Matplotlib, Seaborn, Collections
 - Collections this module implements high-performance container datatypes (beyond the built-in types list, dict and tuple) and contains many useful data structures that you can use to store information in memory.
 
 ## Downloading My Repositiory from git hub
-Go to Git Hub using the following link Click Here:https://github.com/LauraBrogan/Programming-Project-2020
+Go to Git Hub using the following link [Click Here:](https://github.com/LauraBrogan/Programming-Project-2020)
 
 Click the download button
 
